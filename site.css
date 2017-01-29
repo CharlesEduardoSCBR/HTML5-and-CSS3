@@ -9,6 +9,7 @@ main h1 {
     color: #FFFFFF;
     text-align: center;
     background-color: #85194;
+    border-bottom: 10px solid black;
 }
 
 h1,
@@ -22,6 +23,7 @@ p {
 
 blockquote {
     background-color: #D9E5E3;
+    border: 10px solid #C2CCCA;
 }
 
 aside {
