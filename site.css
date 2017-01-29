@@ -53,3 +53,11 @@ ul {
 ul li a {
     color: inherit;
 }
+
+blockquote, aside, footer {
+    padding: 20px;
+}
+
+main h1 {
+    padding: 25px;
+}
