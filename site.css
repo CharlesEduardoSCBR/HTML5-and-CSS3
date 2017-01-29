@@ -93,5 +93,19 @@ aside li {
 }
 
 .icone-rede-social {
-    display: inline-block
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    text-indent: -999999px;
+}
+
+.github {
+    background-image: url(github.png);
+}
+
+.twitter {
+    background-image: url(twitter.png);
+}
+.linkedin {
+    background-image: url(linkedin.png)
 }
