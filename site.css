@@ -87,3 +87,7 @@ main h1 {
 strong {
     font-weight: bold;
 }
+
+aside li {
+    display: inline-block;
+}
